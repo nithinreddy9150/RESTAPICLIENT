@@ -70,6 +70,8 @@ public class Main {
         System.out.println("Description: " + description);
     }
 }
+
+
 5. How to Run the Program
 Replace "your_api_key" with a valid API key from OpenWeatherMap.
 Save the file as Main.java.
@@ -79,10 +81,12 @@ Compile the program using:
 javac Main.java
 Run the program using:
 java Main
+
 6. Sample Output
 Weather Data for Chennai:
 Temperature: 30.5°C
 Humidity: 75%
 Description: clear sky
+
 7. Conclusion
 This program demonstrates how to fetch and process weather data using a REST API in Java. It provides real-time weather updates for any specified city.
